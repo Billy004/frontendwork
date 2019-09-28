@@ -1,0 +1,104 @@
+.main{
+    text-align: center;
+    font-family: Open Sans, sans-serif;
+    
+}
+
+.light{
+    display: flex;
+    
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    
+}
+
+li{
+    padding: 10px;
+    padding-inline-start: 40px;
+    
+
+}
+
+a:link{
+    text-decoration: none;
+    color:rgb(116, 116, 116);
+    text-emphasis-style: bold;
+}
+
+.pen{
+    padding-right: 500px;
+}
+
+.hair{
+    background-color: rgb(44, 44, 44);
+    padding: 100px;
+    font-family: Open Sans,sans-serif;
+    letter-spacing: 0;
+    padding-right: 200px;
+}
+.beeds{
+    text-align: left;
+    display: flex;
+    background-color: black;
+}
+
+h3{
+    color: white;
+}
+
+label{
+    color: white;
+}
+
+.dance{
+    color: white;
+}
+button{
+    border-radius: 50px;
+    background-color: rgb(185, 28, 28);
+    color: white;
+    display: inline-block;
+    border: none;
+    height: 40px;
+    width: 100px;
+    cursor: default;
+   
+
+}
+
+.diagonal{
+    height: 24px;
+    width: 100%;
+    position: absolute;
+    left: 5px;
+    right: 10px;
+
+}
+
+body{
+    margin: 0;
+    letter-spacing: 0px;
+    font-family: Open Sans,sans-serif;
+    font-size: 16px;
+    line-height: 1.5
+}
+
+input{
+    border: none;
+    border-radius: 5px;
+    font-family: inherit;
+    padding: 8px 10px;
+    vertical-align: middle;
+
+}
+.img{
+height: 70px;
+width:300px ;
+}
+
+header{
+    background: linear-gradient(90deg, #520f0d,#47180c);
+}
